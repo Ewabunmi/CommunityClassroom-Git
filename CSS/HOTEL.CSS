@@ -1,0 +1,189 @@
+body {
+    background: #ddf0f3;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header {
+    background: white;
+    height: 600px;
+    border-radius:25px;
+    margin-top: 15px;
+    padding: 30px;
+}
+
+
+    
+.Searchroom-button {
+    height: 50px;
+    width: 350px;
+    border-radius:30px;
+    color: grey;
+    border: 2px;
+    background-color: white;
+    border-color: grey;
+    border-style: solid;
+    padding-right: 190px;
+    font-style: italic;
+    margin-left: 20px;  
+
+  }
+
+
+  
+.menubar {
+    font-size: 20px;
+}
+
+  .NewRoom-button {
+    height: 35px;
+    width: 170px;
+    color: white;
+    border:none;
+    border-radius:30px;
+    background-color: rgb(187, 45, 187);
+    margin-left: 1000px;
+    
+  }
+  
+  .parallel_line {
+    font-size:20px;
+   
+  }
+.Booked01-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color: rgba(245, 61, 61, 0.99);
+    background-color: rgba(239, 162, 162, 0.99);
+}
+
+.vacant01-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color: rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.vacant02-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.booked02-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color: rgba(245, 61, 61, 0.99);
+    background-color: rgba(239, 162, 162, 0.99);
+
+}
+
+.Vacant03-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.Vacant04-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.Vacant05-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.Booked03-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color: rgba(245, 61, 61, 0.99);
+    background-color: rgba(239, 162, 162, 0.99);
+}
+
+
+.Vacant06-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.Vacant07-button {
+    width: 100px;
+    border: none;
+    border-radius:11px;
+    color:rgb(33, 169, 33);
+    background-color: rgb(187, 238, 187);
+}
+
+.t__heading {
+    text-align:right;
+
+
+}
+.table__body {
+    text-align: right;
+    
+
+}
+    
+.table__row1 {
+    background-color:rgb(233, 197, 233);
+
+}
+
+.table__row3 {
+  background-color:rgb(243, 239, 243);
+
+}
+
+.table__row5 {
+    background-color :rgb(243, 239, 243);
+
+}
+.table__row7 {
+    
+background-color:rgb(227, 214, 197)
+}
+.table__row9{
+    background-color:rgb(227, 214, 197)
+}
+.table__row11 {
+        background-color:rgb(227, 214, 197)
+}
+
+.table__head {
+     border-collapse:collapse; 
+     width:98%; 
+     height:90%;
+}
+
+.checkbox__1 {
+    color:rgb(187, 45, 187);
+      
+}
+
+.checkbox__2 {
+    color:rgb(187, 45, 187);
+}
+
+
+
+
+
